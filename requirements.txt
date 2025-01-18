@@ -16,6 +16,7 @@ fonttools==4.55.3
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.68.1
+gunicorn==23.0.0
 h5py==3.12.1
 idna==3.6
 itsdangerous==2.1.2
@@ -54,8 +55,6 @@ six==1.17.0
 soupsieve==2.5
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.10.0
-tensorflow_intel==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
 typing_extensions==4.12.2
