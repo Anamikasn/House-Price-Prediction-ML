@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn house-price-prediction.app:app
