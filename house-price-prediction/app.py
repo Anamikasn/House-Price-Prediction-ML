@@ -7,7 +7,7 @@ import pickle
 app = Flask(__name__)
 
 # Load the trained model (ensure you've saved the model previously using pickle)
-with open('model.pkl', 'rb') as file:
+with open('house-price-prediction/model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # Define the features
